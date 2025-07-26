@@ -1,0 +1,17 @@
+[pull]
+	ff = only
+	rebase = false
+[init]
+	defaultBranch = main
+[user]
+	name = hibara428
+	email = hibara428@gmail.com
+[push]
+	default = current
+[core]
+	autocrlf = false
+	ignorecase = false
+	quotepath = false
+	safecrlf = true
+[color]
+	ui = true
